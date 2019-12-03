@@ -9,7 +9,7 @@
 ---
 
 Hero | Role | Commentaries | Link | File
--- | -- | -- | --
+--- | --- | --- | --- | ---
 Alchemist | Core |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1826240453) | [buildfile](builds/alchemist_1533216412.build)
 Arc Warden | Nuker/Initiator | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=916406164) | [buildfile](builds/arc_warden_1517796471.build)
 Arc Warden | Support | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=814024669) | [buildfile](builds/arc_warden_1517796629.build)
